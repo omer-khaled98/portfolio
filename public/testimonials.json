@@ -2,11 +2,11 @@
   {
     "to": "https://mostaql.com/u/3mer98",
     "avatar": "/images/avatar-1.png",
-    "link": "../public/images/mostaql-logo-white.svg"
+    "link": "images/mostaql-logo-white.svg"
   },
   {
     "to": "https://nafezly.com/u/omer_khaled98",
     "avatar": "/images/avatar-2.png",
-    "link": "../public/images/logo2-01.svg"
+    "link": "images/logo2-01.svg"
   }
 ]
