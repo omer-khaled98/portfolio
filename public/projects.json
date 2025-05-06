@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "title": "Finance",
+    "category": "Web development",
+    "image": "images/portfolio/Apoalm.png",
+    "link": "https://apo-alam.vercel.app/"
+  },
+  {
+    "id": 2,
+    "title": "Firniture E-commerce",
+    "category": "Web development",
+    "image": "images/portfolio/firniture.png",
+    "link": "https://omer-khaled98.github.io/furniture2-main/"
+  },
+  {
+    "id": 3,
+    "title": "Game Dashboard",
+    "category": "Web design",
+    "image": "images/portfolio/assassin.png",
+    "link": "https://omer-khaled98.github.io/game_dash/"
+  },
+  {
+    "id": 4,
+    "title": "E-commerce",
+    "category": "Applications",
+    "image": "images/portfolio/e-commerce.png",
+    "link": "https://angular-e-commerce-vert.vercel.app/home"
+  },
+  {
+    "id": 5,
+    "title": "Udemy Clone",
+    "category": "Web design",
+    "image": "images/portfolio/UdemyClone.png",
+    "link": "https://udemy-clone-zeta.vercel.app/"
+  },
+  {
+    "id": 6,
+    "title": "JS-E-Commerce",
+    "category": "Web design",
+    "image": "images/portfolio/JS-E-Commerce.png",
+    "link": "https://omer-khaled98.github.io/JS-E-Commerce/index.html"
+  },
+  {
+    "id": 7,
+    "title": "CRUD System by JS",
+    "category": "Web design",
+    "image": "images/portfolio/CRUD.png",
+    "link": "https://omer-khaled98.github.io/CRUD-System/"
+  },
+  {
+    "id": 8,
+    "title": "Gallery Landing Page ",
+    "category": "Web development",
+    "image": "images/portfolio/temp3.png",
+    "link": "https://omer-khaled98.github.io/elzero-template-three/"
+  },
+  {
+    "id": 9,
+    "title": "Dashboard Template",
+    "category": "Web development",
+    "image": "images/portfolio/dasboard-4th-temp.png",
+    "link": "https://omer-khaled98.github.io/dashboard-4th-HTML-CSS-JS/"
+  },
+  {
+    "id": 10,
+    "title": "Meshkat",
+    "category": "Web development",
+    "image": "images/portfolio/Meshkat.png",
+    "link": "https://mishkat-seven.vercel.app/"
+  },
+  {
+    "id": 11,
+    "title": "CRM System",
+    "category": "Web development",
+    "image": "images/portfolio/CRM.png"
+  },
+  {
+    "id": 12,
+    "title": "Ordering System",
+    "category": "Web development",
+    "image": "images/portfolio/Ordering System.png"
+  }
+]
