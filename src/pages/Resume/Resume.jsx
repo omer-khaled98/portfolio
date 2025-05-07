@@ -74,16 +74,16 @@ development, with a specific emphasis on the MERN
         </ul> */}
 
         <div className="skills_img">
-          <img src="../../../public/images/html2.png" alt="" />
-          <img src="../../../public/images/css.png" alt="" />
-          <img src="../../../public/images/js.png" alt="" />
-          <img src="../../../public/images/tailwind.png" alt="" />
-          <img src="../../../public/images/bootstrap.png" alt="" />
-          <img src="../../../public/images/node.png" alt="" />
-          <img src="../../../public/images/mongo.png" alt="" />
-          <img src="../../../public/images/nest.png" alt="" />
-          <img src="../../../public/images/react.png" alt="" />
-          <img src="../../../public/images/next.png" alt="" />
+          <img src="images/css.png" alt="" />
+          <img src="images/html2.png" alt="" />
+          <img src="images/js.png" alt="" />
+          <img src="images/tailwind.png" alt="" />
+          <img src="images/bootstrap.png" alt="" />
+          <img src="images/node.png" alt="" />
+          <img src="images/mongo.png" alt="" />
+          <img src="images/nest.png" alt="" />
+          <img src="images/react.png" alt="" />
+          <img src="images/next.png" alt="" />
         </div>
       </div>
     </section>
