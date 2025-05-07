@@ -1003,7 +1003,11 @@ main {
   gap: 30px;
   margin-bottom: 10px;
 }
-
+@media (max-width: 1090px) {
+  .hidden__Pro {
+    display: none !important;
+  }
+}
 .project-item {
   display: none;
 }

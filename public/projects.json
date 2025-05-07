@@ -16,35 +16,35 @@
   {
     "id": 3,
     "title": "Game Dashboard",
-    "category": "Web design",
+    "category": "Web development",
     "image": "images/portfolio/assassin.png",
     "link": "https://omer-khaled98.github.io/game_dash/"
   },
   {
     "id": 4,
     "title": "E-commerce",
-    "category": "Applications",
+    "category": "Web development",
     "image": "images/portfolio/e-commerce.png",
     "link": "https://angular-e-commerce-vert.vercel.app/home"
   },
   {
     "id": 5,
     "title": "Udemy Clone",
-    "category": "Web design",
+    "category": "Web development",
     "image": "images/portfolio/UdemyClone.png",
     "link": "https://udemy-clone-zeta.vercel.app/"
   },
   {
     "id": 6,
     "title": "JS-E-Commerce",
-    "category": "Web design",
+    "category": "Web development",
     "image": "images/portfolio/JS-E-Commerce.png",
     "link": "https://omer-khaled98.github.io/JS-E-Commerce/index.html"
   },
   {
     "id": 7,
     "title": "CRUD System by JS",
-    "category": "Web design",
+    "category": "Web development",
     "image": "images/portfolio/CRUD.png",
     "link": "https://omer-khaled98.github.io/CRUD-System/"
   },

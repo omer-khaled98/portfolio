@@ -40,7 +40,7 @@ const Portfolio = () => {
       </header>
 
       {/* Filter buttons */}
-      <ul className="filter-list">
+      {/* <ul className="filter-list">
         {["All", "Web design", "Applications", "Web development"].map(
           (category) => (
             <li className="filter-item" key={category}>
@@ -54,14 +54,16 @@ const Portfolio = () => {
             </li>
           )
         )}
-      </ul>
+      </ul> */}
 
       {/* Portfolio items */}
       <section className="projects">
         <ul className="project-list">
           {filteredProjects.map((project) => (
             <li
-              className="project-item active"
+              className={`project-item active ${
+                project.id === 6 ? "hidden__Pro" : ""
+              } `}
               data-filter-item
               data-category={project.category}
               key={project.id}
