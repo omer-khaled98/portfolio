@@ -74,8 +74,8 @@ development, with a specific emphasis on the MERN
         </ul> */}
 
         <div className="skills_img">
-          <img src="images/css.png" alt="" />
           <img src="images/html2.png" alt="" />
+          <img src="images/css.png" alt="" />
           <img src="images/js.png" alt="" />
           <img src="images/tailwind.png" alt="" />
           <img src="images/bootstrap.png" alt="" />
